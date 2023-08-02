@@ -1,5 +1,7 @@
 run python: 
-/bin/python3 "/home/o-soba/Sinau/Python /day3.py"
+/bin/python3 "/home/o-soba/Sinau/Python /day3.py" 
+"/home/o-soba/folder/folder/name file.py" 
+
 run stm32: 
 make flash (for upload code) 
 make 	   (for build code) 
